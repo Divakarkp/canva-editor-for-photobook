@@ -1,0 +1,22 @@
+body{
+  font-family Arial;
+  background#f5f5f5;
+}
+
+.editor{
+  padding40px;
+}
+
+.toolbar{
+  margin-bottom20px;
+}
+
+button{
+  margin-right10px;
+  padding8px 14px;
+}
+
+canvas{
+  border1px solid #ccc;
+  backgroundwhite;
+}
